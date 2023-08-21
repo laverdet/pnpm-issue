@@ -1,0 +1,8 @@
+{
+	"name": "@test/package",
+	"type": "module",
+	"private": true,
+	"dependencies": {
+		"@typescript-eslint/eslint-plugin": "^6.3.0"
+	}
+}
